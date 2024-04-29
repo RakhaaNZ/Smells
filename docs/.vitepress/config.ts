@@ -8,7 +8,7 @@ export default {
       '/smell/': sidebar(),
     },
     socialLinks: [
-      { icon: 'github', link: '' }
+      { icon: 'github', link: 'https://github.com/RakhaaNZ/Smells' }
     ]
   },
 }
