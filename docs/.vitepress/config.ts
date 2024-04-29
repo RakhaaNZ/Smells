@@ -9,7 +9,11 @@ export default {
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/RakhaaNZ/Smells' }
-    ]
+    ],
+    footer: {
+      message: 'Rakha Naufal Azizi - 2602187241',
+      copyright: 'Rayhan Kafi Pratama - 2602201151'
+    }
   },
 }
 
